@@ -14,3 +14,6 @@ Bookmarklet that will convert your Wordle Results into Reddit Formatted text.
 1. Copy and Paste your Wordle Results into the Reddit textbox.  
 2. Add your Guesses to the right side of each line. 
 3. Click the Bookmark.  The text should be replaced with properly formatted text.
+
+
+[kofi](https://ko-fi.com/kataiki)
